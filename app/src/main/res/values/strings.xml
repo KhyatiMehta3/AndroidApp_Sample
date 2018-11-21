@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Internship_App</string>
+    <string name="text_view_name">Hello, Stranger! </string>
+    <string name="question_message"> Have you programmed in Android before? </string>
+    <string name="submit_button">Submit!</string>
+    <string name="radio_yes">Yes</string>
+    <string name="radio_no">No</string>
+    <string name="something">Im so useless</string>
+    <string name="something_else">Im even more useless</string>
+    <string name="so_blah">What am I even doing here?</string>
+    <string name="whatever">So blah! </string>
+    <string name="login_user">Login Here!</string>
+    <string name="Password_user">Type Your password</string>
+
+
+</resources>
